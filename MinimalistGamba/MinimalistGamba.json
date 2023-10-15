@@ -1,0 +1,20 @@
+{
+  "Author": "Arty",
+  "Name": "Minimalist Gamba",
+  "InternalName": "MinimalistGamba",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Open the main window using /mingamba",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "player",
+    "gamba",
+    "blackjack"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A basic plugin for gamba",
+  "AcceptsFeedback": true
+}

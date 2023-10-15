@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "Arty",
+        "Name": "Minimalist Gamba",
+        "Description": "A basic plugin for gamba",
+        "InternalName": "MinimalistGamba",
+        "AssemblyVersion": "1.1.0.0",
+        "RepoUrl": "https://github.com/mingamba/minGamba",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "player",
+            "venue",
+            "discord"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/mingamba/MinimalistGamba/raw/main/minGamba/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/mingamba/MinimalistGamba/raw/main/minGamba/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/mingamba/MinimalistGamba/raw/main/minGamba/latest.zip",
+        "DownloadCount": 2,
+        "LastUpdated": "1657534686"
+    }
+]
