@@ -13,11 +13,11 @@
             "discord"
         ],
         "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/mingamba/MinimalistGamba/raw/main/minGamba/latest.zip",
+        "DownloadLinkInstall": "https://github.com/mingamba/minGamba/raw/main/MinimalistGamba/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/mingamba/MinimalistGamba/raw/main/minGamba/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/mingamba/MinimalistGamba/raw/main/minGamba/latest.zip",
+        "DownloadLinkTesting": "https://github.com/mingamba/minGamba/raw/main/MinimalistGamba/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/mingamba/minGamba/raw/main/MinimalistGamba/latest.zip",
         "DownloadCount": 2,
         "LastUpdated": "1657534686"
     }
